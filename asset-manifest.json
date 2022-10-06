@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Interview-challenge/static/css/main.073c9b0a.css",
+    "main.js": "/Interview-challenge/static/js/main.ca89738f.js",
+    "static/js/787.c901e988.chunk.js": "/Interview-challenge/static/js/787.c901e988.chunk.js",
+    "static/media/logo.svg": "/Interview-challenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Interview-challenge/index.html",
+    "main.073c9b0a.css.map": "/Interview-challenge/static/css/main.073c9b0a.css.map",
+    "main.ca89738f.js.map": "/Interview-challenge/static/js/main.ca89738f.js.map",
+    "787.c901e988.chunk.js.map": "/Interview-challenge/static/js/787.c901e988.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ca89738f.js"
+  ]
+}
